@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/LXcTMARcXsBA2EzvbFQ8">
       Solution
     </a>
     <span> | </span>
@@ -59,4 +59,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - Website [hossam-dev14](https://hossam-dev14)
 - GitHub [@hossam-dev14](https://github.com/hossam-dev14)
 - Twitter [@hossam-dev](https://twitter.com/hossam-dev)
+
+## Acknowledgements
+
+<h3> Thank You <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">devchallenges.io</a> For Giving Us This Chance</h3>
 
