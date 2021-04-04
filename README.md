@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{My Team Page}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -29,7 +29,7 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Appreciation](#appreciation)
 
 
 <!-- OVERVIEW -->
@@ -38,29 +38,25 @@
 
 ![my-team-page](https://user-images.githubusercontent.com/73648971/113441519-5a333a80-93e6-11eb-884e-9f169bc5b852.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+Responsive Web Page, Using only HTML and CSS (flex box for the header and css grid for the images).
 
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [My-Team-Page]  (https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build a page to complete the given user stories.
 
-
+- [x] User story: This is a completed user stories
+- [ ] User story: This is a incompleted user stories
+- [ ] User story: This is a incompleted 2nd user stories
 
 ## Contact
 
-- Website [hossam-dev14](https://hossam-dev14)
 - GitHub [@hossam-dev14](https://github.com/hossam-dev14)
 - Twitter [@hossam-dev](https://twitter.com/hossam-dev)
 
-## Acknowledgements
 
-<h3> Thank You <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">devchallenges.io</a> For Giving Us This Chance</h3>
+## Appreciation
 
+<h3> Thank You <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a> For Giving Us This Chance</h3>
