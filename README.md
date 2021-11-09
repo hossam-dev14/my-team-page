@@ -53,7 +53,8 @@ This site was created as a submission to a [DevChallenges](https://devchallenges
 
 ## Contact
 
-- GitHub [@hossam-dev14](https://github.com/hossam-dev14)
+- Gmail [hossam-dev14](mailto:hossamdev14@gmail.com)
+- Website [hossam-dev14](https://hossam-dev14.github.io/)
 - Twitter [@hossam-dev](https://twitter.com/hossam-dev)
 
 
